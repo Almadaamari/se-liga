@@ -1,15 +1,15 @@
 body {
-    color: white;
+    color: rgb(5, 194, 252);
     background: black;
     margin: 0px;
     font-family: "Ckakra Petch", sans-serif;
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(228, 34, 235);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(188, 10, 233);
 }
 
 .chamada {
